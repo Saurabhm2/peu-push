@@ -10,7 +10,7 @@
   const VAPID_KEY = "BPZ5P0IwVsp99V98AP6tKaKQ9dwlsl-_C73cu2sdeI-Mhwnra6iSbo4PF81_fQ6NdvVlMpkqZiZefndBFeJqonU";
 
   // ⬇️ Replace YOUR_GITHUB_USERNAME with your actual GitHub username
-  const SW_URL = "https://YOUR_GITHUB_USERNAME.github.io/peu-push/service-worker.js";
+  const SW_URL = "https://Saurabhm2.github.io/peu-push/service-worker.js";";
 
   const style = document.createElement('style');
   style.textContent = `
